@@ -1,0 +1,4 @@
+npm init -y
+npm install nodemon
+npm install body-parser
+npm install mongodb mongoose
